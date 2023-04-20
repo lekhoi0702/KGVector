@@ -1,0 +1,9 @@
+1 USE /
+     2 COMPACT /
+     3 ELECTRONIC /
+     4 MAGNET /
+     5 FIELD /
+     6 ELECTRON /
+     7 DESCRIBE /
+     8 RESULT /
+     9 DISCUSS /
